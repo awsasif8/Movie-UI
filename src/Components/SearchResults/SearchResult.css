@@ -1,0 +1,34 @@
+.txnheading{
+    text-align: left;
+}
+.openheading{
+    margin-top: 5%;
+}
+.datarow{
+    text-align: left
+}
+.breachtable{
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+table th {
+    border: solid 1px black;
+    background-color: blue
+}
+table tr td{
+    border: solid 1px black;
+    background-color: white;
+}
+.tab{
+    float:left;
+}
+.logout{
+    margin-top: 0;
+    float: right;
+}
+.historyheading{
+    top:200px;
+    float:center;
+}
+
